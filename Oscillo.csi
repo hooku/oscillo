@@ -1,0 +1,7 @@
+[NodeColors]
+1=#P0#=Oscillo/frmOscillo	#P1#=255	.
+[History]
+1=#P0#=mb	#P1#=Form_Paint	#P2#=Oscillo/frmOscillo/Form_Paint	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130901114054	#P7#=0	#P8#=0	.
+2=#P0#=mb	#P1#=app_close	#P2#=Oscillo/modMain/app_close	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130901113351	#P7#=0	#P8#=0	.
+3=#P0#=mb	#P1#=Main	#P2#=Oscillo/modMain/Main	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20130901113017	#P7#=0	#P8#=13	.
+4=#P0#=mb	#P1#=push	#P2#=Oscillo/clsGL/push	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20130901110930	#P7#=0	#P8#=0	.
